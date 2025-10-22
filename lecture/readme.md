@@ -19,3 +19,5 @@ It will be updated continuously throughout the semester.
 | ---------------------------------------- | ---------- | --------------------------------------------------- |
 | [01](01_motivation_and_crash_course.pdf) | 2025-10-01 | Administrative matters, Motivation and Crash Course |
 | [02](02_mpi_basics.pdf)                  | 2025-10-08 | MPI - Message Passing Interface                     |
+| [03](03_debugging.pdf)                   | 2025-10-15 | Debugging Parallel Programs                         |
+| [04](04_measurements.pdf)                | 2025-10-22 | Measuring and Reporting Performance                 |
