@@ -43,7 +43,7 @@ For each timestep (you can assume `dt = 1`), particles must be moved by first co
 
        Having 2 blank lines means the points for this timestep are finished. Note that all values can be floating point numbers.
 - For measuring performance either disable writing to a datafile or consider not dumping each timestep. Measure only the actual n-body simulation, not any initialization or data I/O.
-- Benchmark the sequential program using 5000 particles and 100 time steps and enter the results into the comparison spreadsheet: https://docs.google.com/spreadsheets/d/1p6d9F12EtykmI2-7MnHkg0U15UAtaCvWz8Ip92ZEsWo
+- Benchmark the sequential program using 5000 particles and 100 time steps and enter the results into the comparison spreadsheet: https://docs.google.com/spreadsheets/d/1Xjs056g0HRjZwNLuCOxe6xtEH1Yk9u6t6UL-xPfPJKA
 
 ## Exercise 2 (1 Point)
 
