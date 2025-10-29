@@ -21,3 +21,4 @@ It will be updated continuously throughout the semester.
 | [02](02_mpi_basics.pdf)                  | 2025-10-08 | MPI - Message Passing Interface                     |
 | [03](03_debugging.pdf)                   | 2025-10-15 | Debugging Parallel Programs                         |
 | [04](04_measurements.pdf)                | 2025-10-22 | Measuring and Reporting Performance                 |
+| [05](05_mpi_advanced.pdf)                | 2025-10-29 | MPI Derived Datatypes and Virtual Topologies        |
