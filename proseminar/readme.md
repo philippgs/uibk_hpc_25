@@ -28,6 +28,7 @@ for that assignment have to be handed in via OLAT by 17:00 on Monday.
 | 2025-10-15 | [2](02)    | Basic parallelization with MPI                              |
 | 2025-10-22 | [3](03)    | Functional debugging                                        |
 | 2025-10-29 | [4](04)    | 2D heat stencil & non-blocking communication                |
+| 2025-11-05 | [5](05)    | N-body                                                      |
 
 ## Handing in and Presenting Solutions
 
