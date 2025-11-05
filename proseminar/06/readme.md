@@ -6,7 +6,7 @@ The goal of this assignment is to implement your parallelization and optimizatio
 
 ### Tasks
 
-- Provide an MPI implementation of your parallelization and optimization plan for the n-body simulation of Assignment 6.
+- Provide an MPI implementation of your parallelization and optimization plan for the n-body simulation of Assignment 5.
 - Measure the speedup and efficiency for multiple problem and machine sizes as in previous exercises. If your parallelization and optimization are orthogonal code modifications, try to measure the impact of your optimization separately.
 - Illustrate the data in appropriate figures and discuss them. What can you observe? Did the implementation meet your expectations from Assignment 6?
 - Add your best parallel wall time for 96 cores, 5000 particles, and 100 time steps into the comparison spreadsheet: https://docs.google.com/spreadsheets/d/1Xjs056g0HRjZwNLuCOxe6xtEH1Yk9u6t6UL-xPfPJKA
