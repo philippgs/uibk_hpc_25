@@ -23,3 +23,4 @@ It will be updated continuously throughout the semester.
 | [04](04_measurements.pdf)                | 2025-10-22 | Measuring and Reporting Performance                 |
 | [05](05_mpi_advanced.pdf)                | 2025-10-29 | MPI Derived Datatypes and Virtual Topologies        |
 | [06](06_dwarfs.pdf)                      | 2025-11-05 | The 13 Dwarfs of HPC                                |
+| [07](07_mpi_advanced_2.pdf)              | 2025-11-12 | Groups, Communicators and One-Sided Communication   |
