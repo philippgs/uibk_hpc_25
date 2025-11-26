@@ -24,3 +24,5 @@ It will be updated continuously throughout the semester.
 | [05](05_mpi_advanced.pdf)                | 2025-10-29 | MPI Derived Datatypes and Virtual Topologies        |
 | [06](06_dwarfs.pdf)                      | 2025-11-05 | The 13 Dwarfs of HPC                                |
 | [07](07_mpi_advanced_2.pdf)              | 2025-11-12 | Groups, Communicators and One-Sided Communication   |
+| [08](08_parallel_io.pdf)                 | 2025-11-19 | Parallel I/O                                        |
+| [09](09_domain_decomposition.pdf)        | 2025-11-26 | Domain Decomposition and Load Balancing             |
