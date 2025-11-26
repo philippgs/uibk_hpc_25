@@ -32,6 +32,7 @@ for that assignment have to be handed in via OLAT by 17:00 on Monday.
 | 2025-11-12 | [6](06)    | N-body: Parallelization & load imbalance                    |
 | 2025-11-19 | [7](07)    | N-body: One-sided communication                             |
 | 2025-11-26 | [8](08)    | Parallel I/O                                                |
+| 2025-12-03 | [9](09)    | Mandelbrot: Parallelization & load imbalance                |
 
 ## Handing in and Presenting Solutions
 
