@@ -26,3 +26,4 @@ It will be updated continuously throughout the semester.
 | [07](07_mpi_advanced_2.pdf)              | 2025-11-12 | Groups, Communicators and One-Sided Communication   |
 | [08](08_parallel_io.pdf)                 | 2025-11-19 | Parallel I/O                                        |
 | [09](09_domain_decomposition.pdf)        | 2025-11-26 | Domain Decomposition and Load Balancing             |
+| [10](10_programming_models.pdf)          | 2025-12-03 | Additional Programming Models                       |
