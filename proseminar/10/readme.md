@@ -1,4 +1,4 @@
-# Assignment 11
+# Assignment 10
 
 The goal of this assignment is to implement two basic applications in the Chapel programming model.
 
