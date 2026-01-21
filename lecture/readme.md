@@ -28,3 +28,4 @@ It will be updated continuously throughout the semester.
 | [09](09_domain_decomposition.pdf)        | 2025-11-26 | Domain Decomposition and Load Balancing             |
 | [10](10_programming_models.pdf)          | 2025-12-03 | Additional Programming Models                       |
 | [11](11_energy.pdf)                      | 2026-01-07 | Energy in HPC                                       |
+| [12](12_node-level_performance.pdf)      | 2026-01-21 | Node-level performance                              |
